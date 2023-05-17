@@ -1,0 +1,12 @@
+.product {
+    margin-bottom: 20px;
+  }
+  
+  .buy-button {
+    background-color: #e91e63;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
